@@ -4,7 +4,7 @@ This repo is dedicated to eloquent javascript exercises and key concepts
 The exercises and projects are based on the thrid edition of the book
 ## Chapter breakdown
 [x] Chapter one - Values, Types, Operators
-[] Chapter two - 
+[x] Chapter two - Program structure
 [] Chapter three - 
 [] Chapter four - 
 [] Chapter five - 
