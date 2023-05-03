@@ -5,7 +5,7 @@ The exercises and projects are based on the thrid edition of the book
 ## Chapter breakdown
 [x] Chapter one - Values, Types, Operators
 [x] Chapter two - Program structure
-[] Chapter three - 
+[x] Chapter three - Functions
 [] Chapter four - 
 [] Chapter five - 
 [] Chapter six - 
