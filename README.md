@@ -6,7 +6,7 @@ The exercises and projects are based on the thrid edition of the book
 [x] Chapter one - Values, Types, Operators
 [x] Chapter two - Program structure
 [x] Chapter three - Functions
-[] Chapter four - 
+[x] Chapter four - data structures: arrays and objects
 [] Chapter five - 
 [] Chapter six - 
 ## Technology used 
